@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 tokio = { version = "^1.0", features = ["full"] }
 anyhow = { version = "^1.0" }
-async-openai = { version = "^0.9" }
+async-openai = { version = "^0.10" }
 dotenv = { version = "^0.15" }
